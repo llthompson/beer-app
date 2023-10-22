@@ -2,6 +2,7 @@ import axios from 'axios';
 import './App.css';
 import { Component } from 'react';
 import Beer from './Beer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
   constructor() {
